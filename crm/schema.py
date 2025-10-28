@@ -1,4 +1,5 @@
 import graphene  # ✅ must include this
+from crm.models import Product
 
 from .models import Product
 
